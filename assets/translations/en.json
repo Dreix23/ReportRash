@@ -59,14 +59,14 @@
   },
 
   "about_dialog": {
-    "title": "About ReportTrash",
-    "description": "ReportTrash is a mobile application that allows users to report and locate trash in their community. Our mission is to promote a cleaner and more sustainable environment through citizen participation.",
+    "title": "About ReporTrash",
+    "description": "ReporTrash is a mobile application that allows users to report and locate trash in their community. Our mission is to promote a cleaner and more sustainable environment through citizen participation.",
     "features_title": "Main Features:",
     "feature_1": "Report trash with location and photos",
     "feature_2": "View trash reports on an interactive map",
     "feature_3": "Receive notifications about cleanup events",
     "contact_title": "Contact Us:",
-    "contact_email": "Email: info@reporttrash.com",
+    "contact_email": "Email: info@reporTrash.com",
     "contact_phone": "Phone: +1 (555) 123-4567"
   },
 

@@ -6,7 +6,6 @@ import 'package:permission_handler/permission_handler.dart';
 import '../dialogs/marker_details_dialog.dart';
 import '../utils/logger.dart';
 import '../services/report_service.dart';
-import 'auth_controller.dart';
 
 class MapController {
   late GoogleMapController mapController;
