@@ -1,3 +1,3 @@
 # reportrash
 
-A new Flutter project.
+#App Diseñada para reportar basura en la ciudad de cartagena
